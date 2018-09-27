@@ -1,0 +1,801 @@
+INCIDENT_NUMBER,OFFENSE_CODE,OFFENSE_CODE_GROUP,DISTRICT,REPORTING_AREA,YEAR,MONTH,DAY_OF_WEEK,HOUR,UCR_PART,STREET,SHOOTING
+1,1102,Fraud,D4,619,2015,12,Sunday,14,Part Two,WESTLAND AVE,N
+2,619,Larceny,D4,619,2015,12,Sunday,14,Part One,WESTLAND AVE,N
+3,1107,Fraud,E18,486,2015,7,Wednesday,12,Part Two,OAKCREST RD,N
+4,1107,Fraud,C6,226,2015,11,Thursday,8,Part Two,E FOURTH ST,N
+5,2647,Other,D4,129,2015,10,Saturday,13,Part Two,BERKELEY ST,N
+6,1102,Fraud,D14,791,2015,9,Tuesday,11,Part Two,ALLSTON ST,N
+7,3201,Property Lost,C11,366,2015,8,Thursday,8,Part Three,EDWIN ST,N
+8,1102,Fraud,C11,450,2015,10,Wednesday,12,Part Two,WASHINGTON ST,N
+9,1102,Fraud,C11,352,2015,8,Saturday,6,Part Two,DITSON ST,N
+10,1107,Fraud,A1,122,2015,8,Saturday,15,Part Two,WASHINGTON ST,N
+11,1107,Fraud,, ,2015,7,Wednesday,24,Part Two,COBDEN,N
+12,735,Auto Theft Recovery,C11,385,2015,11,Sunday,11,Other,HALLET ST,N
+13,1102,Fraud,C11,345,2015,12,Monday,4,Part Two,DRAPER ST,N
+14,1107,Fraud,A7,20,2015,7,Wednesday,8,Part Two,PARIS ST,N
+15,1102,Fraud,C11,342,2015,9,Tuesday,24,Part Two,TOPLIFF ST,N
+16,1102,Fraud,C11,365,2015,9,Thursday,9,Part Two,SEMONT RD,N
+17,615,Larceny From Motor Vehicle,C11,366,2015,10,Thursday,8,Part One,EDWIN ST,N
+18,3115,Investigate Person,D14,775,2015,7,Wednesday,24,Part Three,WALLINGFORD RD,N
+19,1102,Fraud,A1,101,2015,8,Friday,9,Part Two,BROAD ST,N
+20,1102,Fraud,D4,165,2015,10,Thursday,24,Part Two,ALBANY ST,N
+21,1102,Fraud,C11,346,2015,12,Tuesday,9,Part Two,JULIETTE ST,N
+22,1107,Fraud,B3,469,2015,9,Sunday,15,Part Two,COLORADO ST,N
+23,3110,Police Service Incidents,E5,552,2015,9,Tuesday,12,Part Three,DENTON TER,N
+24,619,Larceny,E5,723,2015,9,Tuesday,24,Part One,VFW PKWY,N
+25,1102,Fraud,B2,315,2015,9,Wednesday,9,Part Two,WAUMBECK ST,N
+26,1102,Fraud,B3,565,2015,10,Saturday,9,Part Two,SENATOR BOLLING CIR,N
+27,1102,Fraud,D4,170,2015,8,Thursday,9,Part Two,E SPRINGFIELD ST,N
+28,1102,Fraud,B2,258,2015,7,Saturday,2,Part Two,MONADNOCK ST,N
+29,1102,Fraud,E18,520,2015,10,Thursday,9,Part Two,HYDE PARK AVE,N
+30,1102,Fraud,E18,478,2015,8,Monday,24,Part Two,SEMINOLE ST,N
+31,1102,Fraud,E18,498,2015,11,Wednesday,9,Part Two,CLARE AVE,N
+32,1102,Fraud,A1,92,2015,10,Tuesday,12,Part Two,COURT ST,N
+33,1109,Fraud,B2,311,2015,11,Thursday,12,Part Two,BLUE HILL AVE,N
+34,3125,Warrant Arrests,A1,111,2015,11,Thursday,24,Part Three,TREMONT ST,N
+35,3201,Property Lost,A1,86,2015,7,Tuesday,24,Part Three,COOPER ST,N
+36,724,Auto Theft,C11,401,2015,11,Sunday,18,Part One,TALBOT AVE,N
+37,1106,Confidence Games,A7,30,2015,7,Wednesday,24,Part Two,COTTAGE ST,N
+38,2629,Harassment,C11,397,2015,6,Monday,24,Part Two,MELBOURNE ST,N
+39,619,Larceny,A1,116,2015,7,Thursday,24,Part One,LINCOLN ST,N
+40,1102,Fraud,B3,433,2015,9,Monday,12,Part Two,EVANS ST,N
+41,619,Larceny,A1,112,2015,11,Sunday,14,Part One,CHAUNCY ST,N
+42,1107,Fraud,B2,292,2015,8,Saturday,12,Part Two,JOHN ELIOT SQ,N
+43,2629,Harassment,B3,469,2015,9,Tuesday,7,Part Two,COLORADO ST,N
+44,3201,Property Lost,D14,795,2015,9,Friday,12,Part Three,COMMONWEALTH AVE,N
+45,1102,Fraud,B3,456,2015,8,Saturday,9,Part Two,GREENWOOD ST,N
+46,619,Larceny,C11,395,2015,12,Sunday,24,Part One,DORCHESTER AVE,N
+47,3115,Investigate Person,C11,395,2015,12,Sunday,24,Part Three,DORCHESTER AVE,N
+48,1102,Fraud,C11,347,2015,9,Tuesday,24,Part Two,WILKINSON PARK,N
+49,1106,Confidence Games,B3,449,2015,7,Wednesday,24,Part Two,SPENCER ST,N
+50,2007,Restraining Order Violations,B3,449,2015,7,Wednesday,24,Part Two,SPENCER ST,N
+51,2629,Harassment,D14,924,2015,11,Sunday,24,Part Two,WASHINGTON ST,N
+52,1102,Fraud,E5,552,2015,11,Sunday,24,Part Two,WELLSMERE RD,N
+53,617,Larceny,E18,519,2015,12,Tuesday,19,Part One,PIERCE ST,N
+54,2647,Other,B2,301,2015,12,Tuesday,12,Part Two,HIGHLAND ST,N
+55,1102,Fraud,C11,249,2015,8,Thursday,9,Part Two,SAGAMORE ST,N
+56,3201,Property Lost,C6,177,2015,8,Saturday,12,Part Three,NEW SUDBURY ST,N
+57,2647,Other,B3,468,2015,12,Tuesday,24,Part Two,HAZLETON ST,N
+58,1102,Fraud,E18,492,2015,7,Wednesday,9,Part Two,HUNTINGTON AVE,N
+59,1108,Fraud,C6,914,2015,8,Thursday,13,Part Two,MONSIGNOR DENNIS F O'CALL,N
+60,3207,Property Found,E5,695,2015,11,Sunday,24,Part Three,CENTRE ST,N
+61,619,Larceny,A7,28,2015,12,Tuesday,24,Part One,PARIS ST,N
+62,1106,Confidence Games,D4,285,2015,12,Tuesday,24,Part Two,TREMONT ST,N
+63,2629,Harassment,D14,796,2015,9,Thursday,9,Part Two,COMMONWEALTH AVE,N
+64,2629,Harassment,D4,284,2015,12,Tuesday,24,Part Two,MASSACHUSETTS AVE,N
+65,1107,Fraud,D4,169,2015,12,Tuesday,12,Part Two,E NEWTON ST,N
+66,1107,Fraud,B2,320,2015,12,Monday,13,Part Two,CHENEY ST,N
+67,3115,Investigate Person,D4,158,2015,11,Saturday,24,Part Three,AGUADILLA ST,N
+68,1107,Fraud,E5,685,2015,12,Tuesday,24,Part Two,WASHINGTON ST,N
+69,1102,Fraud,D4,145,2015,10,Thursday,9,Part Two,SAINT BOTOLPH ST,N
+70,1102,Fraud,E18, ,2015,12,Thursday,24,Part Two,CUMMINS HWY,N
+71,361,Robbery,C11,344,2015,12,Tuesday,22,Part One,WESTVILLE ST,N
+72,1102,Fraud,C6,914,2015,10,Thursday,12,Part Two,GENERAL LAWRENCE J LOGAN ,N
+73,1107,Fraud,A1,104,2015,12,Saturday,15,Part Two,WASHINGTON ST,N
+74,1102,Fraud,C11,381,2015,9,Saturday,24,Part Two,GALLIVAN BLVD,N
+75,1107,Fraud,B2,279,2015,12,Saturday,14,Part Two,DUDLEY ST,N
+76,619,Larceny,E5,822,2015,12,Monday,14,Part One,GEORGETOWNE DR,N
+77,3207,Property Found,C11,257,2015,9,Saturday,24,Part Three,SCHROEDER PLZ,N
+78,1106,Confidence Games,E5,739,2015,12,Tuesday,24,Part Two,ADDELAIDE PL,N
+79,3109,Police Service Incidents,E5,739,2015,12,Tuesday,24,Part Three,ADDELAIDE PL,N
+80,1107,Fraud,D4,903,2015,11,Saturday,12,Part Two,LATTIMORE CT,N
+81,1102,Fraud,A7,24,2015,10,Thursday,9,Part Two,MERIDIAN ST,N
+82,2629,Harassment,C11,397,2015,7,Wednesday,9,Part Two,WELLES AVE,N
+83,1102,Fraud,C6,219,2015,11,Friday,12,Part Two,COLUMBIA RD,N
+84,614,Larceny From Motor Vehicle,B2,327,2015,11,Tuesday,12,Part One,QUINCY ST,N
+85,3115,Investigate Person,C6,224,2015,11,Thursday,23,Part Three,E SECOND ST,N
+86,613,Larceny,D4,627,2015,11,Sunday,17,Part One,BOYLSTON ST,N
+87,614,Larceny From Motor Vehicle,D4,628,2015,11,Saturday,24,Part One,PARK DR,N
+88,1106,Confidence Games,D4,625,2015,10,Monday,12,Part Two,PETERBOROUGH ST,N
+89,1107,Fraud,B2,320,2015,11,Tuesday,14,Part Two,CRAWFORD ST,N
+90,1107,Fraud,D4,171,2015,11,Monday,12,Part Two,ALBANY ST,N
+91,1501,Firearm Violations,D4,171,2015,8,Sunday,2,Part Two,MASSACHUSETTS AVE,N
+92,2629,Harassment,B2,180,2015,10,Wednesday,12,Part Two,DUNMORE ST,N
+93,3018,Medical Assistance,C6,177,2015,6,Sunday,12,Part Three,NEW SUDBURY ST,N
+94,1102,Fraud,E5,550,2015,10,Saturday,12,Part Two,JUNE ST,N
+95,1107,Fraud,E5,680,2015,9,Tuesday,24,Part Two,FILOMENA RD,N
+96,3201,Property Lost,C11,949,2015,11,Saturday,23,Part Three,BOWDOIN ST,N
+97,1102,Fraud,D4,618,2015,6,Friday,17,Part Two,OPERA PL,N
+98,2647,Other,E13,906,2015,10,Thursday,9,Part Two,HEATH ST,N
+99,1102,Fraud,D4, ,2015,9,Sunday,12,Part Two,CLARENDON ST,N
+100,1102,Fraud,B3,417,2015,9,Thursday,16,Part Two,ARMANDINE ST,N
+101,3201,Property Lost,A1,77,2015,12,Tuesday,15,Part Three,NEW SUDBURY ST,N
+102,1107,Fraud,B2,311,2015,10,Monday,13,Part Two,CLIFFORD ST,N
+103,3115,Investigate Person,B2,329,2015,10,Sunday,11,Part Three,WASHINGTON ST,N
+104,1107,Fraud,B2,326,2015,10,Saturday,12,Part Two,FAYSTON ST,N
+105,3201,Property Lost,B3,435,2015,11,Sunday,12,Part Three,MILTON AVE,N
+106,1106,Confidence Games,C6,914,2015,9,Tuesday,24,Part Two,COLONEL MICHAEL J  MCDONO,N
+107,1106,Confidence Games,E5,721,2015,9,Wednesday,8,Part Two,CONSTANCE RD,N
+108,1106,Confidence Games,B2,184,2015,12,Friday,8,Part Two,GROOM ST,N
+109,1107,Fraud,B2,297,2015,9,Monday,14,Part Two,KENSINGTON PARK,N
+110,1107,Fraud,B2,327,2015,9,Monday,13,Part Two,HOWARD AVE,N
+111,1107,Fraud,C6,914,2015,9,Wednesday,12,Part Two,COLONEL MICHAEL J  MCDONO,N
+112,619,Larceny,B2,911,2015,11,Wednesday,24,Part One,ANNUNCIATION RD,N
+113,3207,Property Found,D4,272,2015,8,Sunday,24,Part Three,WASHINGTON ST,N
+114,3115,Investigate Person,B2,180,2015,9,Tuesday,12,Part Three,EUSTIS ST,N
+115,802,Simple Assault,B3,465,2015,12,Saturday,18,Part Two,HAVELOCK ST,N
+116,1102,Fraud,B3,450,2015,11,Saturday,8,Part Two,NORFOLK ST,N
+117,2629,Harassment,E5,710,2015,8,Thursday,13,Part Two,WASHINGTON ST,N
+118,1106,Confidence Games,C11,345,2015,12,Wednesday,24,Part Two,ROBINSON ST,N
+119,1102,Fraud,B2,320,2015,10,Wednesday,24,Part Two,HARTWELL ST,N
+120,3201,Property Lost,B3,465,2015,11,Sunday,13,Part Three,JOHNSTON RD,N
+121,3201,Property Lost,E18,501,2015,8,Tuesday,12,Part Three,AMERICAN LEGION HWY,N
+122,617,Larceny,D14,762,2015,10,Wednesday,7,Part One,TRAPELO ST,N
+123,3501,Missing Person Reported,B3,457,2015,6,Saturday,16,Part Three,DRUMMOND ST,N
+124,3502,Missing Person Located,B3,457,2015,6,Saturday,16,Part Three,DRUMMOND ST,N
+125,1107,Fraud,B2,911,2015,7,Saturday,11,Part Two,ANNUNCIATION RD,N
+126,1109,Fraud,D4,153,2015,8,Tuesday,12,Part Two,BOYLSTON ST,N
+127,1102,Fraud,B2,319,2015,11,Sunday,9,Part Two,CENTRE ST,N
+128,1201,Embezzlement,B2,319,2015,11,Sunday,9,Part Two,CENTRE ST,N
+129,3115,Investigate Person,C6,207,2015,12,Tuesday,24,Part Three,DRY DOCK AVE,N
+130,3201,Property Lost,D14,776,2015,9,Friday,15,Part Three,LEAMINGTON RD,N
+131,1102,Fraud,B3,434,2015,9,Wednesday,16,Part Two,STANTON ST,N
+132,1102,Fraud,D4,159,2015,6,Monday,9,Part Two,DARTMOUTH ST,N
+133,2629,Harassment,D14,758,2015,11,Friday,18,Part Two,WASHINGTON ST,N
+134,616,Larceny,C6,913,2015,7,Tuesday,24,Part One,MOUNT VERNON ST,N
+135,3201,Property Lost,E18,519,2015,12,Sunday,11,Part Three,PIERCE ST,N
+136,3208,Property Lost,D4,143,2015,8,Saturday,7,Part Three,BOYLSTON ST,N
+137,3831,Motor Vehicle Accident Response,B3,472,2015,7,Sunday,15,Part Three,FAVRE ST,N
+138,3201,Property Lost,C6,936,2015,11,Sunday,24,Part Three,DALESSIO CT,N
+139,1107,Fraud,B2,318,2015,11,Wednesday,9,Part Two,HUTCHINGS ST,N
+140,3115,Investigate Person,D14,751,2015,6,Tuesday,16,Part Three,LAKE SHORE RD,N
+141,3201,Property Lost,B3,448,2015,6,Tuesday,24,Part Three,SPENCER ST,N
+142,2629,Harassment,D4,905,2015,6,Monday,12,Part Two,HARRISON ARCHWAYS,N
+143,1107,Fraud,B3,439,2015,10,Wednesday,13,Part Two,BLUE HILL AVE,N
+144,520,Residential Burglary,B2,602,2015,12,Tuesday,24,Part One,HUNTINGTON AVE,N
+145,1106,Confidence Games,E5,711,2015,11,Tuesday,24,Part Two,WEYMOUTH AVE,N
+146,619,Larceny,C11,356,2015,11,Wednesday,9,Part One,GENEVA AVE,N
+147,3201,Property Lost,B2,291,2015,7,Friday,17,Part Three,COLUMBUS AVE,N
+148,1001,Counterfeiting,C11,243,2015,9,Tuesday,7,Part Two,BAKERSFIELD ST,N
+149,2619,Prisoner Related Incidents,D14,778,2015,9,Tuesday,24,Part Two,WASHINGTON ST,N
+150,1107,Fraud,C11,396,2015,11,Sunday,8,Part Two,SANTUIT ST,N
+151,3125,Warrant Arrests,C11,356,2015,12,Thursday,3,Part Three,GENEVA AVE,N
+152,3115,Investigate Person,C11,356,2015,12,Thursday,3,Part Three,GENEVA AVE,N
+153,3201,Property Lost,D4, ,2015,9,Tuesday,12,Part Three,,N
+154,3201,Property Lost,A1,117,2015,12,Tuesday,12,Part Three,BOYLSTON ST,N
+155,724,Auto Theft,E5,681,2015,12,Monday,12,Part One,WASHINGTON ST,N
+156,617,Larceny,A1,120,2015,10,Tuesday,15,Part One,BOYLSTON ST,N
+157,3115,Investigate Person,D4,143,2015,9,Tuesday,12,Part Three,BOYLSTON ST,N
+158,619,Larceny,C11,352,2015,11,Sunday,24,Part One,ADAMS ST,N
+159,1109,Fraud,E18,536,2015,10,Thursday,11,Part Two,LEIGHTON RD,N
+160,1102,Fraud,A1,77,2015,12,Tuesday,13,Part Two,NEW SUDBURY ST,N
+161,1402,Vandalism,A15,900,2015,9,Saturday,24,Part Two,WALFORD WAY,N
+162,619,Larceny,B2,292,2015,9,Tuesday,12,Part One,KENILWORTH ST,N
+163,1102,Fraud,C11,393,2015,10,Wednesday,24,Part Two,WRENTHAM ST,N
+164,619,Larceny,D14,794,2015,7,Monday,19,Part One,GREYLOCK RD,N
+165,1102,Fraud,C11,350,2015,12,Monday,13,Part Two,DORCHESTER AVE,N
+166,619,Larceny,B2,276,2015,12,Monday,12,Part One,ALLSTATE RD,N
+167,2647,Other,B3,444,2015,8,Saturday,24,Part Two,GLENWAY ST,N
+168,619,Larceny,E18,555,2015,7,Wednesday,7,Part One,GREW AVE,N
+169,3201,Property Lost,C11,235,2015,11,Sunday,13,Part Three,BUTTONWOOD ST,N
+170,619,Larceny,B2,330,2015,12,Thursday,11,Part One,BLUE HILL AVE,N
+171,619,Larceny,D4,167,2015,7,Wednesday,24,Part One,HARRISON AVE,N
+172,2647,Other,C6,186,2015,12,Thursday,12,Part Two,ALLSTATE RD,N
+173,3115,Investigate Person,C6,207,2015,8,Saturday,12,Part Three,SEAPORT BLVD,N
+174,1106,Confidence Games,D14,784,2015,8,Saturday,12,Part Two,WARREN ST,N
+175,616,Larceny,D4,627,2015,9,Tuesday,12,Part One,BOYLSTON ST,N
+176,1107,Fraud,B2,325,2015,11,Sunday,12,Part Two,WOODCLIFF ST,N
+177,1107,Fraud,A1,89,2015,8,Thursday,24,Part Two,NORTH ST,N
+178,617,Larceny,A7,16,2015,11,Sunday,12,Part One,E EAGLE ST,N
+179,1102,Fraud,D4,129,2015,11,Monday,18,Part Two,BOYLSTON ST,N
+180,1102,Fraud,E18,478,2015,9,Thursday,11,Part Two,SEFTON ST,N
+181,3115,Investigate Person,D4,271,2015,10,Thursday,16,Part Three,HARRISON AVE,N
+182,3115,Investigate Person,D14,795,2015,9,Tuesday,8,Part Three,CAMBRIDGE ST,N
+183,1102,Fraud,D14,768,2015,10,Tuesday,15,Part Two,PARSONS ST,N
+184,3201,Property Lost,A7,28,2015,11,Wednesday,12,Part Three,HAVRE ST,N
+185,3208,Property Lost,D4,273,2015,8,Friday,8,Part Three,WASHINGTON ST,N
+186,619,Larceny,C6,913,2015,12,Thursday,24,Part One,WESTWIND RD,N
+187,1106,Confidence Games,B3,421,2015,11,Sunday,24,Part Two,W SELDEN ST,N
+188,619,Larceny,E13,573,2015,9,Sunday,12,Part One,GREEN ST,N
+189,3125,Warrant Arrests,A1,105,2015,12,Tuesday,11,Part Three,FRUIT ST,N
+190,802,Simple Assault,B2,326,2015,10,Saturday,16,Part Two,FAYSTON ST,N
+191,619,Larceny,D14,811,2015,12,Tuesday,9,Part One,HOLMES ST,N
+192,3201,Property Lost,C11,332,2015,9,Tuesday,9,Part Three,PAYSON AVE,N
+193,1102,Fraud,D14,938,2015,10,Thursday,24,Part Two,FIDELIS WAY,N
+194,3114,Investigate Property,B2,291,2015,7,Wednesday,24,Part Three,CEDAR ST,N
+195,3201,Property Lost,A1,69,2015,11,Sunday,12,Part Three,RIVER ST,N
+196,1106,Confidence Games,B3,465,2015,9,Thursday,16,Part Two,WILCOCK ST,N
+197,2647,Other,B2,329,2015,11,Tuesday,13,Part Two,DEVON ST,N
+198,670,License Plate Related Incidents,C11,383,2015,8,Thursday,24,Other,FRONTAGE RD,N
+199,1106,Confidence Games,D4,158,2015,12,Monday,12,Part Two,W DEDHAM ST,N
+200,2629,Harassment,B2,265,2016,7,Saturday,12,Part Two,COPELAND ST,N
+201,3201,Property Lost,C11,249,2016,9,Tuesday,24,Part Three,SYDNEY ST,N
+202,2647,Other,C11,356,2016,1,Friday,12,Part Two,CHARLES ST,N
+203,1102,Fraud,C11,356,2016,12,Tuesday,24,Part Two,CHARLES ST,N
+204,2629,Harassment,A1,88,2016,1,Friday,12,Part Two,CLARK ST,N
+205,1102,Fraud,C11,817,2016,6,Thursday,24,Part Two,ARGYLE TER,N
+206,3201,Property Lost,C11,332,2016,12,Wednesday,9,Part Three,TRULL ST,N
+207,3201,Property Lost,C11,342,2016,12,Thursday,14,Part Three,GENEVA AVE,N
+208,1107,Fraud,E5,713,2016,9,Thursday,24,Part Two,STIMSON ST,N
+209,1102,Fraud,E18,492,2016,5,Saturday,17,Part Two,HUNTINGTON AVE,N
+210,3114,Investigate Property,A1,105,2016,9,Thursday,24,Part Three,FRANKLIN ST,N
+211,1102,Fraud,, ,2016,1,Tuesday,24,Part Two,LIBERTY DR,N
+212,3114,Investigate Property,D4,141,2016,11,Tuesday,13,Part Three,COMMONWEALTH AVE,N
+213,1107,Fraud,E5,822,2016,3,Wednesday,24,Part Two,RIDGECREST TER,N
+214,2629,Harassment,D4,165,2016,6,Wednesday,11,Part Two,HARRISON AVE,N
+215,3501,Missing Person Reported,B3,456,2016,5,Sunday,7,Part Three,ELLINGTON ST,N
+216,1102,Fraud,A15,41,2016,8,Monday,24,Part Two,VINE ST,N
+217,3114,Investigate Property,C6,178,2016,10,Wednesday,18,Part Three,MASSACHUSETTS AVE,N
+218,2629,Harassment,A15,47,2016,6,Tuesday,8,Part Two,N MEAD ST,N
+219,1102,Fraud,B3,425,2016,11,Tuesday,15,Part Two,FREMONT ST,N
+220,1001,Counterfeiting,E13,912,2016,10,Wednesday,9,Part Two,HEATH ST,N
+221,1106,Confidence Games,C11,356,2016,10,Monday,24,Part Two,FAULKNER ST,N
+222,1107,Fraud,B3,444,2016,2,Monday,24,Part Two,VESTA RD,N
+223,3109,Police Service Incidents,A1,167,2016,9,Thursday,18,Part Three,HARRISON AVE,N
+224,1102,Fraud,D4,271,2016,5,Wednesday,24,Part Two,HARRISON AVE,N
+225,1102,Fraud,C11,335,2016,2,Tuesday,11,Part Two,BOWDOIN ST,N
+226,619,Larceny,E5,562,2016,9,Thursday,24,Part One,BASILE ST,N
+227,2629,Harassment,D4,161,2016,1,Friday,24,Part Two,TREMONT ST,N
+228,3201,Property Lost,D14,797,2016,6,Wednesday,12,Part Three,BUICK ST,N
+229,1001,Counterfeiting,D14,798,2016,4,Friday,9,Part Two,COMMONWEALTH AVE,N
+230,2647,Other,E18,923,2016,6,Wednesday,8,Part Two,PIERCE ST,N
+231,3201,Property Lost,B3,445,2016,8,Monday,16,Part Three,YORK ST,N
+232,1102,Fraud,A1,122,2016,1,Friday,24,Part Two,WASHINGTON ST,N
+233,614,Larceny From Motor Vehicle,C11, ,2016,12,Thursday,4,Part One,DORCHESTER AVE,N
+234,3115,Investigate Person,A1,61,2016,7,Friday,12,Part Three,NASHUA ST,N
+235,1102,Fraud,C11,244,2016,10,Saturday,9,Part Two,PLEASANT ST,N
+236,1102,Fraud,E18,507,2016,3,Tuesday,9,Part Two,HYDE PARK AVE,N
+237,1107,Fraud,, ,2016,4,Friday,12,Part Two,ALPINE,N
+238,1102,Fraud,D4,150,2016,10,Tuesday,24,Part Two,COLUMBUS AVE,N
+239,617,Larceny,C6,214,2016,12,Thursday,12,Part One,W BROADWAY,N
+240,3114,Investigate Property,C6,186,2016,8,Monday,8,Part Three,MASSACHUSETTS AVE,N
+241,1102,Fraud,C11,341,2016,6,Wednesday,9,Part Two,SPEEDWELL ST,N
+242,1102,Fraud,A1,124,2016,4,Sunday,9,Part Two,KNEELAND ST,N
+243,1102,Fraud,E13,572,2016,12,Thursday,9,Part Two,IFFLEY RD,N
+244,1106,Confidence Games,D4,624,2016,12,Thursday,12,Part Two,PETERBOROUGH ST,N
+245,1102,Fraud,A1,124,2016,6,Monday,9,Part Two,HUDSON ST,N
+246,1102,Fraud,E18,536,2016,10,Tuesday,9,Part Two,LEIGHTON RD,N
+247,1102,Fraud,, ,2016,3,Saturday,9,Part Two,RUTHVEN,N
+248,619,Larceny,A7,26,2016,4,Sunday,12,Part One,BORDER ST,N
+249,3115,Investigate Person,E18,500,2016,10,Tuesday,11,Part Three,CANTERBURY ST,N
+250,3115,Investigate Person,E18,520,2016,11,Wednesday,12,Part Three,HYDE PARK AVE,N
+251,1106,Confidence Games,B3,423,2016,9,Thursday,9,Part Two,ARBORCREST TER,N
+252,1107,Fraud,E13,647,2016,12,Tuesday,24,Part Two,ELM ST,N
+253,1106,Confidence Games,E13,647,2016,12,Tuesday,24,Part Two,ELM ST,N
+254,1102,Fraud,E13,644,2016,3,Thursday,9,Part Two,PRINCE ST,N
+255,619,Larceny,D14,785,2016,10,Saturday,24,Part One,COMMONWEALTH AVE,N
+256,1201,Embezzlement,D14,785,2016,10,Saturday,24,Part Two,COMMONWEALTH AVE,N
+257,1102,Fraud,C11,402,2016,8,Friday,24,Part Two,BURT ST,N
+258,2629,Harassment,D4,162,2016,3,Tuesday,8,Part Two,SHAWMUT AVE,N
+259,1102,Fraud,B3,943,2016,6,Thursday,9,Part Two,WOODRUFF WAY,N
+260,1107,Fraud,E5,557,2016,1,Friday,24,Part Two,POPLAR ST,N
+261,1106,Confidence Games,B2,327,2016,5,Sunday,24,Part Two,HOWARD AVE,N
+262,619,Larceny,A1,92,2016,5,Thursday,8,Part One,CITY HALL PLZ,N
+263,3115,Investigate Person,B3,458,2016,3,Tuesday,9,Part Three,ELLINGTON ST,N
+264,3502,Missing Person Located,C11,336,2016,12,Thursday,8,Part Three,GIBSON ST,N
+265,2629,Harassment,A1,84,2016,8,Monday,13,Part Two,PRINCE ST,N
+266,1109,Fraud,C11,334,2016,10,Saturday,8,Part Two,FERNALD TER,N
+267,619,Larceny,C6,174,2016,12,Tuesday,24,Part One,DORCHESTER AVE,N
+268,617,Larceny,C6,219,2016,4,Tuesday,24,Part One,THOMAS PARK,N
+269,3106,Property Related Damage,A1,74,2016,10,Saturday,16,Part Three,NEW CHARDON ST,N
+270,1501,Firearm Violations,C11,332,2016,1,Friday,24,Part Two,PAYSON AVE,N
+271,1102,Fraud,A1,77,2016,4,Friday,12,Part Two,NEW SUDBURY ST,N
+272,3115,Investigate Person,C11,396,2016,6,Wednesday,8,Part Three,SANTUIT ST,N
+273,1102,Fraud,A15,900,2016,8,Tuesday,12,Part Two,MCNULTY CT,N
+274,2629,Harassment,E5,662,2016,12,Saturday,23,Part Two,PRIMROSE ST,N
+275,1106,Confidence Games,D4,619,2016,7,Monday,13,Part Two,WESTLAND AVE,N
+276,1107,Fraud,C11,337,2016,12,Friday,12,Part Two,EVERTON ST,N
+277,2629,Harassment,C11,341,2016,12,Thursday,9,Part Two,HOMES AVE,N
+278,3125,Warrant Arrests,A1,77,2016,8,Tuesday,12,Part Three,NEW SUDBURY ST,N
+279,619,Larceny,E5,729,2016,10,Saturday,24,Part One,BAKER ST,N
+280,3502,Missing Person Located,E18,501,2016,4,Sunday,13,Part Three,HARDING RD,N
+281,2629,Harassment,A7,25,2016,10,Thursday,24,Part Two,WHITE ST,N
+282,1102,Fraud,E18,501,2016,2,Thursday,12,Part Two,HYDE PARK AVE,N
+283,3114,Investigate Property,E18,520,2016,10,Friday,9,Part Three,HYDE PARK AVE,N
+284,1102,Fraud,A1,89,2016,11,Wednesday,15,Part Two,COMMERCIAL ST,N
+285,3201,Property Lost,E18,499,2016,9,Thursday,19,Part Three,CANTERBURY ST,N
+286,3115,Investigate Person,C11,415,2016,1,Monday,24,Part Three,WASHINGTON ST,N
+287,619,Larceny,E18,519,2016,12,Thursday,8,Part One,FAIRMOUNT AVE,N
+288,3205,License Plate Related Incidents,E18,522,2016,11,Tuesday,17,Part Three,EASTON AVE,N
+289,2629,Harassment,B2,265,2016,8,Monday,12,Part Two,COPELAND ST,N
+290,1102,Fraud,A7,21,2016,3,Thursday,9,Part Two,MORRIS ST,N
+291,1106,Confidence Games,B3,424,2016,10,Monday,9,Part Two,JAMESTOWN TER,N
+292,1102,Fraud,C11,373,2016,4,Thursday,9,Part Two,FREEPORT ST,N
+293,3201,Property Lost,B3,428,2016,2,Monday,14,Part Three,BLUE HILL AVE,N
+294,619,Larceny,C6,191,2016,10,Saturday,12,Part One,DORCHESTER AVE,N
+295,801,Simple Assault,A1, ,2016,9,Thursday,24,Part Two,CAMBRIDGE ST,N
+296,619,Larceny,D14,805,2016,10,Monday,12,Part One,LEO M BIRMINGHAM PKWY,N
+297,1402,Vandalism,E5,676,2016,9,Thursday,24,Part Two,RHODA ST,N
+298,3115,Investigate Person,C11,333,2016,2,Friday,24,Part Three,STANLEY ST,N
+299,2629,Harassment,A1,79,2016,8,Monday,19,Part Two,THACHER ST,N
+300,1107,Fraud,E5,676,2016,11,Tuesday,12,Part Two,SOUTH ST,N
+301,616,Larceny,D4,168,2016,6,Wednesday,12,Part One,FATHER FRANCIS J GILDAY S,N
+302,1102,Fraud,B3,425,2016,2,Monday,9,Part Two,BLUE HILL AVE,N
+303,2629,Harassment,E5,722,2016,10,Thursday,12,Part Two,BELLE AVE,N
+304,1107,Fraud,E5,822,2016,2,Tuesday,9,Part Two,CROWN POINT DR,N
+305,616,Larceny,A1,63,2016,8,Monday,18,Part One,LONGFELLOW PL,N
+306,2629,Harassment,D4,134,2016,11,Saturday,17,Part Two,NEWBURY ST,N
+307,619,Larceny,E5,562,2016,11,Thursday,18,Part One,FLORENCE ST,N
+308,1106,Confidence Games,E18,517,2016,11,Monday,3,Part Two,TYLER ST,N
+309,3115,Investigate Person,A1,120,2016,3,Monday,24,Part Three,PARK PLZ,N
+310,1107,Fraud,B2,267,2016,10,Saturday,9,Part Two,DUDLEY ST,N
+311,1102,Fraud,B2,182,2016,6,Saturday,24,Part Two,BURRELL ST,N
+312,1102,Fraud,B2,239,2016,4,Monday,12,Part Two,RAMSEY ST,N
+313,1102,Fraud,C11,257,2016,6,Sunday,19,Part Two,COLUMBIA RD,N
+314,3125,Warrant Arrests,C11,396,2016,10,Monday,24,Part Three,WELLES AVE,N
+315,1501,Firearm Violations,B2,329,2018,6,Monday,12,Part Two,BISHOP JOE L SMITH WAY,Y
+316,1102,Fraud,A1,104,2016,1,Sunday,14,Part Two,FRANKLIN ST,N
+317,3006,Medical Assistance,A1,64,2016,3,Thursday,8,Part Three,FRUIT ST,N
+318,3114,Investigate Property,B3,448,2016,10,Sunday,8,Part Three,WHITFIELD ST,N
+319,3125,Warrant Arrests,C6,177,2016,10,Monday,21,Part Three,NEW SUDBURY ST,N
+320,2629,Harassment,B2,304,2016,4,Wednesday,12,Part Two,WASHINGTON ST,N
+321,1107,Fraud,B2,280,2016,8,Tuesday,24,Part Two,DUDLEY ST,N
+322,2629,Harassment,E5,551,2016,8,Monday,24,Part Two,GLENDOWER RD,N
+323,619,Larceny,A7,24,2016,10,Saturday,8,Part One,EUTAW ST,N
+324,1107,Fraud,E5,688,2016,6,Saturday,9,Part Two,PARKLAWN RD,N
+325,1107,Fraud,E13,912,2016,8,Friday,24,Part Two,CENTRE ST,N
+326,724,Auto Theft,E18,496,2016,4,Thursday,11,Part One,PROVIDENCE ST,N
+327,3114,Investigate Property,E18,519,2016,12,Thursday,12,Part Three,LINCOLN ST,N
+328,2629,Harassment,D4,146,2016,7,Wednesday,24,Part Two,COPLEY PL,N
+329,2629,Harassment,B2,265,2016,9,Thursday,24,Part Two,MURRAY AVE,N
+330,2647,Other,D14,767,2016,11,Tuesday,24,Part Two,LEO M BIRMINGHAM PKWY,N
+331,3201,Property Lost,B2,612,2016,7,Monday,13,Part Three,LONGWOOD AVE,N
+332,1107,Fraud,A15,38,2016,10,Saturday,24,Part Two,EIGHTH ST,N
+333,619,Larceny,B3,453,2016,9,Wednesday,5,Part One,BRADLEE ST,N
+334,1102,Fraud,E5,691,2016,11,Tuesday,12,Part Two,W BROADWAY,N
+335,1001,Counterfeiting,E13,578,2016,8,Monday,24,Part Two,LAMARTINE ST,N
+336,1106,Confidence Games,E5,687,2016,12,Tuesday,24,Part Two,IONA ST,N
+337,619,Larceny,C6,914,2016,9,Monday,24,Part One,COLONEL MICHAEL J  MCDONO,N
+338,2629,Harassment,B3,417,2016,6,Tuesday,24,Part Two,MORA ST,N
+339,3115,Investigate Person,A15,52,2016,9,Thursday,24,Part Three,RUTHERFORD AVE,N
+340,3201,Property Lost,B2,327,2016,6,Wednesday,12,Part Three,WAYLAND ST,N
+341,619,Larceny,B2,267,2016,12,Saturday,24,Part One,MOUNT PLEASANT AVE,N
+342,619,Larceny,C11,462,2016,10,Monday,24,Part One,BOWDOIN ST,N
+343,2662,Ballistics,B3,448,2016,10,Saturday,8,Part Two,WHEATLAND AVE,N
+344,3201,Property Lost,C6,177,2016,12,Thursday,24,Part Three,NEW SUDBURY ST,N
+345,3115,Investigate Person,B2,318,2016,11,Wednesday,18,Part Three,HOMESTEAD ST,N
+346,3201,Property Lost,D4,135,2016,8,Monday,17,Part Three,FAIRFIELD ST,N
+347,2629,Harassment,A7,824,2016,10,Thursday,17,Part Two,LEXINGTON ST,N
+348,1106,Confidence Games,D14,794,2016,1,Friday,12,Part Two,COMMONWEALTH AVE,N
+349,619,Larceny,B2,306,2016,7,Friday,24,Part One,CODMAN PARK,N
+350,3502,Missing Person Located,E13,572,2016,8,Wednesday,13,Part Three,COLUMBUS AVE,N
+351,3201,Property Lost,E18,540,2016,9,Thursday,24,Part Three,RESERVATION RD,N
+352,617,Larceny,E5,683,2016,10,Saturday,24,Part One,NEWBURG ST,N
+353,2647,Other,B3,470,2016,7,Wednesday,24,Part Two,PRAIRIE ST,N
+354,2629,Harassment,A1,167,2016,6,Sunday,16,Part Two,HARRISON AVE,N
+355,1107,Fraud,E5,674,2016,11,Tuesday,24,Part Two,FARQUHAR ST,N
+356,1107,Fraud,B2,182,2016,12,Wednesday,24,Part Two,MARSHFIELD ST,N
+357,3201,Property Lost,B2,182,2016,12,Wednesday,24,Part Three,MARSHFIELD ST,N
+358,3114,Investigate Property,E18,540,2016,11,Tuesday,24,Part Three,SUNNYSIDE ST,N
+359,801,Simple Assault,A1,92,2016,6,Thursday,11,Part Two,CITY HALL PLZ,N
+360,3114,Investigate Property,D4,594,2016,6,Wednesday,24,Part Three,HUNTINGTON AVE,N
+361,3201,Property Lost,B2,901,2016,7,Thursday,24,Part Three,MCGREEVEY WAY,N
+362,1102,Fraud,D4,131,2016,2,Thursday,9,Part Two,BERKELEY ST,N
+363,2647,Other,E13,509,2016,5,Wednesday,7,Part Two,WALK HILL ST,N
+364,3115,Investigate Person,D4,594,2016,9,Monday,12,Part Three,MASSACHUSETTS AVE,N
+365,3115,Investigate Person,E13,572,2016,2,Monday,12,Part Three,COLUMBUS AVE,N
+366,3501,Missing Person Reported,E13,572,2016,2,Monday,12,Part Three,COLUMBUS AVE,N
+367,3114,Investigate Property,C11,388,2016,12,Friday,8,Part Three,ADAMS ST,N
+368,3114,Investigate Property,C11,388,2016,6,Wednesday,15,Part Three,ADAMS ST,N
+369,619,Larceny,C11,340,2016,11,Friday,2,Part One,DRAPER ST,N
+370,617,Larceny,A7,14,2016,12,Monday,8,Part One,MOORE ST,N
+371,2629,Harassment,A1,127,2016,9,Friday,9,Part Two,WASHINGTON ST,N
+372,3114,Investigate Property,C11,397,2016,3,Thursday,24,Part Three,MELBOURNE ST,N
+373,619,Larceny,E18,503,2016,10,Monday,14,Part One,AMERICAN LEGION HWY,N
+374,1106,Confidence Games,D14,800,2016,7,Sunday,24,Part Two,PRATT ST,N
+375,802,Simple Assault,B2,328,2016,9,Thursday,7,Part Two,LAWRENCE AVE,N
+376,3201,Property Lost,D4,170,2016,5,Sunday,12,Part Three,E SPRINGFIELD ST,N
+377,2647,Other,A15,45,2016,5,Wednesday,12,Part Two,COOK ST,N
+378,1107,Fraud,B3,474,2016,5,Wednesday,12,Part Two,ORLANDO ST,N
+379,2629,Harassment,D14,794,2016,12,Wednesday,22,Part Two,COMMONWEALTH AVE,N
+380,3102,Other,E5,551,2016,7,Saturday,12,Part Three,BRANCH AVE,N
+381,1106,Confidence Games,D14,794,2016,7,Thursday,24,Part Two,GLENVILLE AVE,N
+382,3115,Investigate Person,E13,567,2016,10,Saturday,24,Part Three,FOREST HILLS ST,N
+383,801,Simple Assault,A1,102,2016,4,Monday,11,Part Two,WINTER ST,N
+384,1107,Fraud,C11,376,2016,12,Thursday,24,Part Two,LORENZO ST,N
+385,1102,Fraud,E18,556,2016,10,Tuesday,24,Part Two,PINEDALE RD,N
+386,1102,Fraud,E18,519,2016,6,Wednesday,15,Part Two,RIVER ST,N
+387,614,Larceny From Motor Vehicle,A15,900,2016,2,Monday,12,Part One,COREY ST,N
+388,3201,Property Lost,B2,612,2016,5,Tuesday,9,Part Three,FRANCIS ST,N
+389,3201,Property Lost,D4,275,2016,10,Saturday,24,Part Three,HAMMOND ST,N
+390,3201,Property Lost,E18,520,2016,11,Saturday,24,Part Three,HYDE PARK AVE,N
+391,802,Simple Assault,D14,799,2016,11,Thursday,12,Part Two,GARDNER ST,N
+392,802,Simple Assault,D4, ,2016,5,Monday,9,Part Two,GAINSBOROUGH ST,N
+393,3201,Property Lost,D14,778,2016,6,Thursday,7,Part Three,WASHINGTON ST,N
+394,2629,Harassment,B2,239,2016,12,Thursday,17,Part Two,COLUMBIA RD,N
+395,1001,Counterfeiting,B2,593,2016,9,Tuesday,9,Part Two,BROOKLINE AVE,N
+396,1106,Confidence Games,D14,751,2016,12,Thursday,8,Part Two,LAKE ST,N
+397,3201,Property Lost,A7,35,2016,1,Sunday,12,Part Three,SUMNER ST,N
+398,3114,Investigate Property,E5,705,2016,10,Monday,24,Part Three,WASHINGTON ST,N
+399,2629,Harassment,A1,80,2016,9,Thursday,24,Part Two,HULL ST,N
+400,3201,Property Lost,C11,393,2017,7,Thursday,24,Part Three,DRACUT ST,N
+401,2622,Other,C11,395,2017,7,Saturday,12,Part Two,DORCHESTER AVE,N
+402,619,Larceny,A1,77,2017,8,Sunday,21,Part One,NEW SUDBURY ST,N
+403,724,Auto Theft,C11,358,2017,7,Thursday,9,Part One,PARK ST,N
+404,617,Larceny,C11, ,2017,7,Saturday,12,Part One,WILLIAM T MORRISSEY BLVD,N
+405,2629,Harassment,A1,123,2017,1,Sunday,24,Part Two,KNEELAND ST,N
+406,2629,Harassment,A1,91,2017,8,Tuesday,24,Part Two,ATLANTIC AVE,N
+407,3831,Motor Vehicle Accident Response,, ,2017,6,Tuesday,14,Part Three,,N
+408,3620,Other,D4,153,2017,10,Monday,11,Part Three,PEMBROKE ST,N
+409,801,Simple Assault,A1,84,2017,5,Sunday,2,Part Two,PRINCE ST,N
+410,3115,Investigate Person,E5,691,2017,10,Thursday,9,Part Three,CENTRE ST,N
+411,1107,Fraud,E13,644,2017,3,Sunday,24,Part Two,ORCHARD ST,N
+412,619,Larceny,A7,25,2017,7,Saturday,13,Part One,BROOKS ST,N
+413,3125,Warrant Arrests,C11,388,2017,8,Saturday,21,Part Three,DORCHESTER AVE,N
+414,3201,Property Lost,A1,94,2017,10,Thursday,17,Part Three,FANEUIL HALL MARKETPLACE,N
+415,1107,Fraud,C6,200,2017,12,Friday,24,Part Two,W BROADWAY,N
+416,3201,Property Lost,E18,523,2017,11,Thursday,8,Part Three,HYDE PARK AVE,N
+417,1102,Fraud,C6,207,2017,9,Friday,24,Part Two,PIER 4 BLVD,N
+418,3115,Investigate Person,D14,938,2017,8,Tuesday,24,Part Three,FIDELIS WAY,N
+419,3201,Property Lost,B2,604,2017,12,Sunday,24,Part Three,SACHEM ST,N
+420,3201,Property Lost,B2,306,2017,6,Monday,14,Part Three,WALNUT AVE,N
+421,1102,Fraud,C11,355,2017,6,Sunday,24,Part Two,GIBSON ST,N
+422,802,Simple Assault,C6,216,2017,9,Friday,12,Part Two,DORCHESTER ST,N
+423,3201,Property Lost,E18,940,2017,12,Monday,15,Part Three,BOW ST,N
+424,724,Auto Theft,D4,903,2017,12,Saturday,7,Part One,TROTTER CT,N
+425,1107,Fraud,A1,67,2017,10,Friday,18,Part Two,S RUSSELL ST,N
+426,2647,Other,D14,797,2017,11,Tuesday,13,Part Two,BUICK ST,N
+427,616,Larceny,D4,625,2017,11,Wednesday,24,Part One,QUEENSBERRY ST,N
+428,1102,Fraud,C11,375,2017,10,Thursday,12,Part Two,HOLBROOK AVE,N
+429,3831,Motor Vehicle Accident Response,C11,356,2017,8,Tuesday,24,Part Three,FAULKNER ST,N
+430,1402,Vandalism,C11,356,2017,8,Tuesday,24,Part Two,FAULKNER ST,N
+431,2629,Harassment,C11,356,2017,8,Tuesday,24,Part Two,FAULKNER ST,N
+432,2629,Harassment,D4,903,2017,6,Thursday,24,Part Two,DITMUS CT,N
+433,522,Residential Burglary,D14,775,2017,10,Sunday,24,Part One,WALLINGFORD RD,N
+434,1107,Fraud,C11,253,2017,11,Monday,24,Part Two,EVERETT ST,N
+435,2629,Harassment,A1,124,2017,5,Monday,24,Part Two,HARRISON AVE,N
+436,3201,Property Lost,B2,293,2017,5,Monday,12,Part Three,LOGAN ST,N
+437,3115,Investigate Person,, ,2017,5,Friday,24,Part Three,ATLANTIC,N
+438,3114,Investigate Property,A1,91,2017,11,Friday,24,Part Three,ATLANTIC AVE,N
+439,2629,Harassment,D4,903,2017,3,Friday,24,Part Two,DITMUS CT,N
+440,2647,Other,E18,525,2017,1,Sunday,24,Part Two,RILEY RD,N
+441,1102,Fraud,C6,915,2017,6,Friday,8,Part Two,E EIGHTH ST,N
+442,2629,Harassment,E13,307,2017,8,Wednesday,9,Part Two,WALNUT PARK,N
+443,3201,Property Lost,B3,418,2017,12,Monday,17,Part Three,SELDEN ST,N
+444,2629,Harassment,A7,33,2017,7,Saturday,8,Part Two,EVERETT ST,N
+445,3802,Motor Vehicle Accident Response,D4,147,2017,11,Tuesday,8,Part Three,COLUMBUS AVE,N
+446,2629,Harassment,D4,905,2017,11,Wednesday,24,Part Two,E BROOKLINE ST,N
+447,1102,Fraud,D14,774,2017,10,Sunday,24,Part Two,COMMONWEALTH AVE,N
+448,3208,Property Lost,E18,520,2017,6,Thursday,16,Part Three,HARVARD AVE,N
+449,3115,Investigate Person,E13,906,2017,10,Tuesday,12,Part Three,HEATH ST,N
+450,3114,Investigate Property,C11,368,2017,5,Sunday,11,Part Three,TRAIN ST,N
+451,3115,Investigate Person,C11,368,2017,5,Sunday,11,Part Three,TRAIN ST,N
+452,2629,Harassment,D4,129,2017,5,Monday,11,Part Two,BERKELEY ST,N
+453,3208,Property Lost,A15,43,2017,5,Monday,12,Part Three,OLD IRONSIDES WAY,N
+454,1107,Fraud,C11,257,2017,9,Friday,24,Part Two,SAWYER AVE,N
+455,3115,Investigate Person,, ,2017,9,Friday,9,Part Three,GOODALE,N
+456,2629,Harassment,A15,50,2017,2,Thursday,17,Part Two,RUTHERFORD AVE,N
+457,3205,License Plate Related Incidents,A7,11,2017,12,Wednesday,8,Part Three,WILLIAM F MCCLELLAN HWY,N
+458,1102,Fraud,D4,274,2017,8,Monday,13,Part Two,TREMONT ST,N
+459,3114,Investigate Property,D14,793,2017,11,Wednesday,13,Part Three,COMMONWEALTH AVE,N
+460,3110,Police Service Incidents,E5,710,2017,9,Friday,13,Part Three,CAROL CIR,N
+461,3110,Police Service Incidents,E5,710,2017,12,Friday,24,Part Three,CAROL CIR,N
+462,2629,Harassment,B2,601,2017,6,Thursday,9,Part Two,TREMONT ST,N
+463,3115,Investigate Person,E18,548,2017,11,Tuesday,9,Part Three,BATEMAN ST,N
+464,2647,Other,B3,432,2017,10,Friday,12,Part Two,WOODROW AVE,N
+465,616,Larceny,A1,65,2017,11,Wednesday,24,Part One,STANIFORD ST,N
+466,2647,Other,D4,626,2017,12,Friday,1,Part Two,PETERBOROUGH ST,N
+467,619,Larceny,A1,73,2017,6,Thursday,12,Part One,PEMBERTON SQ,N
+468,3208,Property Lost,B2,295,2017,4,Saturday,24,Part Three,WALNUT AVE,N
+469,3501,Missing Person Reported,D4,271,2017,10,Sunday,24,Part Three,HARRISON AVE,N
+470,617,Larceny,C11,373,2017,12,Sunday,15,Part One,FREEPORT ST,N
+471,3501,Missing Person Reported,E18,484,2017,12,Friday,18,Part Three,BELNEL RD,N
+472,2629,Harassment,C6,914,2017,1,Sunday,8,Part Two,GENERAL LAWRENCE J LOGAN ,N
+473,2647,Other,C6,914,2017,1,Sunday,8,Part Two,GENERAL LAWRENCE J LOGAN ,N
+474,1102,Fraud,A1,63,2017,12,Friday,7,Part Two,HAWTHORNE PL,N
+475,1102,Fraud,D4,154,2017,2,Thursday,11,Part Two,TREMONT ST,N
+476,3201,Property Lost,C6,214,2017,12,Friday,8,Part Three,BOWEN ST,N
+477,413,Aggravated Assault,B2,315,2018,1,Thursday,19,Part One,WAUMBECK ST,Y
+478,802,Simple Assault,D4,624,2017,12,Thursday,23,Part Two,LANSDOWNE ST,N
+479,2629,Harassment,E5,709,2017,11,Friday,24,Part Two,SAINT THERESA AVE,N
+480,3201,Property Lost,C11,340,2017,8,Tuesday,19,Part Three,MOUNT IDA RD,N
+481,614,Larceny From Motor Vehicle,B2,310,2017,12,Monday,13,Part One,MARTIN LUTHER KING JR BLV,N
+482,1102,Fraud,C11,356,2017,10,Friday,14,Part Two,GENEVA AVE,N
+483,3201,Property Lost,B2,326,2017,11,Wednesday,12,Part Three,FAYSTON ST,N
+484,1102,Fraud,E18,495,2017,2,Saturday,12,Part Two,ARLINGTON ST,N
+485,3201,Property Lost,D4,625,2017,9,Friday,14,Part Three,QUEENSBERRY ST,N
+486,1102,Fraud,C11,250,2017,9,Friday,13,Part Two,SAVIN HILL AVE,N
+487,619,Larceny,E18,542,2017,10,Thursday,12,Part One,BUSINESS ST,N
+488,3201,Property Lost,B2,328,2017,6,Thursday,13,Part Three,INTERVALE ST,N
+489,1102,Fraud,E13,509,2017,12,Wednesday,24,Part Two,WENHAM ST,N
+490,3114,Investigate Property,D4,272,2017,12,Thursday,24,Part Three,WASHINGTON ST,N
+491,3801,Motor Vehicle Accident Response,E5,687,2017,12,Saturday,9,Part Three,BRADWOOD ST,N
+492,1102,Fraud,A1,66,2017,11,Monday,17,Part Two,CHARLES ST,N
+493,804,Simple Assault,C6,915,2017,12,Thursday,14,Part Two,GENERAL JOZEF PILSUDSKI W,N
+494,1102,Fraud,A1,90,2017,4,Monday,24,Part Two,ATLANTIC AVE,N
+495,1201,Embezzlement,A1,90,2017,4,Monday,24,Part Two,ATLANTIC AVE,N
+496,1102,Fraud,E5,561,2017,12,Tuesday,18,Part Two,GARDENSIDE ST,N
+497,3115,Investigate Person,E5,664,2017,8,Tuesday,7,Part Three,WASHINGTON ST,N
+498,1402,Vandalism,D4,272,2017,12,Friday,15,Part Two,NEWCOMB ST,N
+499,1102,Fraud,D14,792,2017,9,Sunday,24,Part Two,COMMONWEALTH CT,N
+500,423,Aggravated Assault,E18,534,2017,10,Monday,2,Part One,SOLARIS RD,N
+501,2647,Other,E18,534,2017,10,Monday,2,Part Two,SOLARIS RD,N
+502,3207,Property Found,B2,289,2017,11,Monday,24,Part Three,SCHROEDER PLZ,N
+503,2629,Harassment,D14,756,2017,12,Monday,7,Part Two,BURTON ST,N
+504,1102,Fraud,D4,161,2017,6,Friday,24,Part Two,VILLAGE CT,N
+505,3201,Property Lost,D14,756,2017,6,Thursday,7,Part Three,CHAMPNEY ST,N
+506,724,Auto Theft,C11,246,2017,9,Saturday,19,Part One,SUDAN ST,N
+507,3201,Property Lost,A7,23,2017,11,Thursday,14,Part Three,MARION ST,N
+508,1106,Confidence Games,A1,78,2017,7,Thursday,24,Part Two,UNION ST,N
+509,1102,Fraud,B3,443,2017,7,Thursday,24,Part Two,WARNER ST,N
+510,3208,Property Lost,E5,660,2017,11,Friday,24,Part Three,VFW PKWY,N
+511,3201,Property Lost,B2,289,2017,12,Friday,12,Part Three,TREMONT ST,N
+512,2629,Harassment,D4,131,2017,11,Wednesday,13,Part Two,BEACON ST,N
+513,1102,Fraud,C11,350,2017,12,Friday,12,Part Two,DUNCAN ST,N
+514,301,Robbery,D4, ,2017,5,Friday,21,Part One,,N
+515,2629,Harassment,D14,938,2017,11,Thursday,24,Part Two,FIDELIS WAY,N
+516,2629,Harassment,C6,202,2017,12,Thursday,24,Part Two,D ST,N
+517,3114,Investigate Property,D4,620,2017,7,Saturday,24,Part Three,NORWAY ST,N
+518,3201,Property Lost,D4,273,2017,9,Thursday,13,Part Three,NORTHAMPTON ST,N
+519,617,Larceny,C6,200,2017,12,Thursday,8,Part One,W BROADWAY,N
+520,2623,Other,D14,797,2017,9,Friday,17,Part Two,COMMONWEALTH AVE,N
+521,1108,Fraud,C11,396,2017,5,Monday,24,Part Two,WELLES AVE,N
+522,1102,Fraud,B2,327,2017,7,Saturday,24,Part Two,QUINCY ST,N
+523,1107,Fraud,A15,45,2017,9,Friday,8,Part Two,MYSTIC ST,N
+524,1001,Counterfeiting,E13,948,2017,12,Thursday,24,Part Two,AMORY ST,N
+525,617,Larceny,D4,132,2017,12,Tuesday,13,Part One,MARLBOROUGH ST,N
+526,1106,Confidence Games,B2,264,2017,3,Sunday,24,Part Two,W COTTAGE ST,N
+527,802,Simple Assault,C6,936,2017,12,Friday,19,Part Two,ORTON-MAROTTA WAY,N
+528,706,Auto Theft,A7,15,2017,10,Sunday,12,Part One,FRANKFORT ST,N
+529,617,Larceny,C6,207,2017,11,Sunday,21,Part One,MARINA PARK DR,N
+530,1102,Fraud,D4,627,2017,10,Sunday,9,Part Two,PETERBOROUGH ST,N
+531,3208,Property Lost,D4,903,2017,10,Friday,14,Part Three,TROTTER CT,N
+532,1300,Recovered Stolen Property,C11,254,2017,12,Sunday,12,Part Two,AUCKLAND ST,N
+533,3201,Property Lost,B2,587,2017,7,Friday,12,Part Three,TREMONT ST,N
+534,3115,Investigate Person,E13,912,2017,9,Friday,19,Part Three,CENTRE ST,Y
+535,1102,Fraud,D14,759,2017,12,Thursday,16,Part Two,PERTHSHIRE RD,N
+536,2007,Restraining Order Violations,A7,28,2017,3,Thursday,9,Part Two,MERIDIAN ST,N
+537,2647,Other,A7,28,2017,3,Thursday,9,Part Two,MERIDIAN ST,N
+538,3201,Property Lost,C11,366,2017,9,Monday,23,Part Three,SHEPTON ST,N
+539,1201,Embezzlement,D4,142,2017,8,Thursday,9,Part Two,NEWBURY ST,N
+540,1001,Counterfeiting,A15,41,2017,6,Thursday,15,Part Two,VINE ST,N
+541,3114,Investigate Property,D4,273,2017,12,Friday,11,Part Three,NORTHAMPTON ST,N
+542,2629,Harassment,D4,270,2017,9,Monday,24,Part Two,HARRISON AVE,N
+543,3115,Investigate Person,D4,270,2017,9,Monday,24,Part Three,HARRISON AVE,N
+544,1102,Fraud,A1,115,2017,1,Sunday,9,Part Two,SOUTH ST,N
+545,1107,Fraud,B2,311,2017,10,Sunday,11,Part Two,WARREN ST,N
+546,3106,Property Related Damage,E5,563,2017,12,Sunday,5,Part Three,WASHINGTON ST,N
+547,3201,Property Lost,B3,466,2017,9,Tuesday,14,Part Three,OUTLOOK RD,N
+548,619,Larceny,B2,332,2017,12,Thursday,13,Part One,COLUMBIA RD,N
+549,1109,Fraud,B2,593,2017,12,Friday,14,Part Two,HUNTINGTON AVE,N
+550,619,Larceny,B2,320,2017,12,Wednesday,24,Part One,HARTWELL ST,N
+551,802,Simple Assault,A1,61,2017,10,Saturday,24,Part Two,LEGENDS WAY,N
+552,3125,Warrant Arrests,E5,685,2017,9,Sunday,22,Part Three,MENDELSSOHN ST,N
+553,423,Aggravated Assault,E5,685,2017,9,Sunday,22,Part One,MENDELSSOHN ST,N
+554,1504,Other,E5,685,2017,9,Sunday,22,Part Two,MENDELSSOHN ST,N
+555,1106,Confidence Games,, ,2017,11,Tuesday,13,Part Two,CLARE,N
+556,1102,Fraud,B3,450,2017,3,Monday,11,Part Two,WHITFIELD ST,N
+557,617,Larceny,A1,115,2017,6,Thursday,12,Part One,SOUTH ST,N
+558,1102,Fraud,A1,92,2017,10,Tuesday,7,Part Two,COURT ST,N
+559,613,Larceny,D4,129,2017,9,Sunday,14,Part One,BOYLSTON ST,N
+560,2629,Harassment,D4,167,2017,7,Saturday,22,Part Two,E CANTON ST,N
+561,3201,Property Lost,E18,537,2017,12,Sunday,12,Part Three,KOVEY RD,N
+562,3207,Property Found,D14,796,2017,3,Wednesday,24,Part Three,CHESTER ST,N
+563,3208,Property Lost,E18,553,2017,2,Wednesday,14,Part Three,LITTLEDALE ST,N
+564,3115,Investigate Person,C11,403,2017,12,Saturday,3,Part Three,FULLER ST,N
+565,3201,Property Lost,B3,429,2017,8,Tuesday,24,Part Three,WILDWOOD ST,N
+566,3115,Investigate Person,C11,459,2017,8,Tuesday,9,Part Three,WASHINGTON ST,N
+567,3201,Property Lost,B3,426,2017,11,Wednesday,18,Part Three,BLUE HILL AVE,N
+568,1102,Fraud,D14,793,2017,10,Sunday,24,Part Two,HARVARD AVE,N
+569,1107,Fraud,B2,281,2017,11,Wednesday,24,Part Two,WARREN ST,N
+570,3201,Property Lost,B3,463,2017,8,Friday,17,Part Three,CALDER ST,N
+571,1102,Fraud,D4,156,2017,5,Monday,9,Part Two,MASSACHUSETTS AVE,N
+572,1109,Fraud,A1,77,2017,7,Friday,13,Part Two,NEW SUDBURY ST,N
+573,3501,Missing Person Reported,C6,175,2017,11,Saturday,24,Part Three,SOUTHAMPTON ST,N
+574,3502,Missing Person Located,C6,175,2017,11,Saturday,24,Part Three,SOUTHAMPTON ST,N
+575,1109,Fraud,B2,329,2017,3,Friday,12,Part Two,BLUE HILL AVE,N
+576,1107,Fraud,A1,117,2017,8,Tuesday,17,Part Two,WASHINGTON ST,N
+577,3114,Investigate Property,A7,29,2017,6,Thursday,8,Part Three,MAVERICK ST,N
+578,3115,Investigate Person,D14,795,2017,3,Thursday,23,Part Three,COMMONWEALTH AVE,N
+579,1102,Fraud,D4,145,2017,8,Tuesday,24,Part Two,BLACKWOOD ST,N
+580,1102,Fraud,A1,111,2017,12,Thursday,12,Part Two,TREMONT ST,N
+581,1102,Fraud,D14,796,2017,11,Friday,12,Part Two,HARVARD AVE,N
+582,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+583,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+584,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+585,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+586,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+587,619,Larceny,C6,195,2017,10,Sunday,8,Part One,D ST,N
+588,1107,Fraud,B2,182,2017,10,Friday,24,Part Two,SHIRLEY ST,N
+589,1106,Confidence Games,D14,794,2017,12,Saturday,12,Part Two,BRIGHTON AVE,N
+590,1106,Confidence Games,A15,58,2017,6,Friday,12,Part Two,AUSTIN ST,N
+591,2660,Other,D4,618,2017,11,Wednesday,24,Part Two,FENWAY,N
+592,2647,Other,E13,906,2017,9,Friday,9,Part Two,PLANT CT,N
+593,1102,Fraud,B2,911,2017,3,Sunday,14,Part Two,ANNUNCIATION RD,N
+594,3201,Property Lost,E18,531,2017,10,Sunday,12,Part Three,BUCKINGHAM ST,N
+595,1102,Fraud,D14,750,2017,9,Friday,24,Part Two,ANSELM TER,N
+596,3201,Property Lost,C6,207,2017,9,Saturday,16,Part Three,NORTHERN AVE,N
+597,3201,Property Lost,A7,29,2017,12,Monday,16,Part Three,MAVERICK SQ,N
+598,1102,Fraud,D4,621,2017,4,Saturday,24,Part Two,COMMONWEALTH AVE,N
+599,1102,Fraud,C11,344,2017,11,Wednesday,24,Part Two,OAKLEY ST,N
+600,3301,Verbal Disputes,B3,428,2018,7,Tuesday,24,Part Three,BLUE HILL AVE,N
+601,3114,Investigate Property,E18,481,2018,7,Tuesday,21,Part Three,ROCKDALE ST,N
+602,619,Larceny,B2,182,2018,7,Tuesday,21,Part One,BATCHELDER ST,N
+603,617,Larceny,E5,714,2018,7,Tuesday,18,Part One,VOGEL ST,N
+604,3410,Towed,C6,211,2018,7,Tuesday,24,Part Three,W THIRD ST,N
+605,3201,Property Lost,C6,186,2018,7,Tuesday,21,Part Three,ALLSTATE RD,N
+606,2647,Other,B3,427,2018,7,Tuesday,19,Part Two,FESSENDEN ST,N
+607,3115,Investigate Person,D14,788,2018,7,Tuesday,24,Part Three,CHISWICK RD,N
+608,3115,Investigate Person,E13,571,2018,7,Tuesday,24,Part Three,WASHINGTON ST,N
+609,613,Larceny,C11,450,2018,7,Tuesday,24,Part One,WASHINGTON ST,N
+610,2647,Other,E13,569,2018,7,Tuesday,19,Part Two,ROSSMORE RD,N
+611,617,Larceny,C11,379,2018,7,Tuesday,18,Part One,GALLIVAN BLVD,N
+612,413,Aggravated Assault,D4,134,2018,7,Tuesday,19,Part One,BOYLSTON ST,N
+613,423,Aggravated Assault,A7,10,2018,7,Tuesday,18,Part One,LEYDEN ST,N
+614,3115,Investigate Person,, ,2018,7,Tuesday,24,Part Three,ATLANTIC,N
+615,1402,Vandalism,B2,319,2018,7,Tuesday,19,Part Two,SONOMA ST,N
+616,613,Larceny,D4,142,2018,7,Tuesday,19,Part One,NEWBURY ST,N
+617,1810,Drug Violation,, ,2018,7,Tuesday,19,Part Two,,N
+618,1843,Drug Violation,, ,2018,7,Tuesday,19,Part Two,,N
+619,1849,Drug Violation,, ,2018,7,Tuesday,19,Part Two,,N
+620,3018,Medical Assistance,D14,778,2018,7,Tuesday,19,Part Three,WASHINGTON ST,N
+621,3114,Investigate Property,D14,778,2018,7,Tuesday,24,Part Three,WASHINGTON ST,N
+622,3115,Investigate Person,E5,559,2018,7,Tuesday,19,Part Three,ALBANO ST,N
+623,2610,Other,D4,161,2018,7,Tuesday,19,Part Two,PAUL PL,N
+624,3006,Medical Assistance,C11, ,2018,7,Tuesday,19,Part Three,,N
+625,617,Larceny,C11,403,2018,7,Tuesday,14,Part One,GALLIVAN BLVD,N
+626,2629,Harassment,A1,88,2018,7,Tuesday,7,Part Two,PRINCE ST,N
+627,1402,Vandalism,B2,312,2018,7,Tuesday,5,Part Two,HOLLANDER ST,N
+628,3301,Verbal Disputes,D4,158,2018,7,Tuesday,19,Part Three,AGUADILLA ST,N
+629,617,Larceny,D4,270,2018,7,Tuesday,19,Part One,NORTHAMPTON ST,N
+630,3006,Medical Assistance,, ,2018,7,Tuesday,17,Part Three,SAINT MARY'S,N
+631,3006,Medical Assistance,E5,735,2018,7,Tuesday,18,Part Three,MOUNT VERNON ST,N
+632,520,Residential Burglary,D4,903,2018,7,Saturday,15,Part One,TROTTER CT,N
+633,3301,Verbal Disputes,C6,231,2018,7,Tuesday,18,Part Three,E SIXTH ST,N
+634,3006,Medical Assistance,D14,793,2018,7,Tuesday,18,Part Three,COMMONWEALTH AVE,N
+635,3115,Investigate Person,C11,823,2018,7,Tuesday,17,Part Three,CUSHING AVE,N
+636,802,Simple Assault,B3,421,2018,7,Tuesday,18,Part Two,BANFIELD AVE,N
+637,802,Simple Assault,D4,138,2018,7,Tuesday,17,Part Two,BOYLSTON ST,N
+638,3115,Investigate Person,D4,273,2018,6,Monday,12,Part Three,SHAWMUT AVE,N
+639,2647,Other,E13,304,2018,7,Tuesday,18,Part Two,COLUMBUS AVE,N
+640,3115,Investigate Person,D4,903,2018,7,Tuesday,17,Part Three,LATTIMORE CT,N
+641,3801,Motor Vehicle Accident Response,B2,311,2018,7,Tuesday,18,Part Three,WARREN ST,N
+642,3115,Investigate Person,A1,111,2018,7,Tuesday,14,Part Three,AVERY ST,N
+643,3831,Motor Vehicle Accident Response,E13,610,2018,6,Saturday,12,Part Three,ZAMORA ST,N
+644,1106,Confidence Games,D14,796,2018,7,Sunday,14,Part Two,LINDEN ST,N
+645,619,Larceny,C6,213,2018,6,Saturday,18,Part One,W BROADWAY,N
+646,3831,Motor Vehicle Accident Response,B3,416,2018,7,Tuesday,17,Part Three,WILMINGTON AVE,N
+647,2610,Other,A1,111,2018,7,Tuesday,18,Part Two,MASON ST,N
+648,613,Larceny,E18,522,2018,7,Tuesday,18,Part One,HYDE PARK AVE,N
+649,3115,Investigate Person,E5,563,2018,7,Tuesday,17,Part Three,FAWNDALE RD,N
+650,1842,Drug Violation,C6,175,2018,7,Tuesday,16,Part Two,TOPEKA ST,N
+651,2629,Harassment,D4,905,2018,7,Tuesday,18,Part Two,E BROOKLINE ST,N
+652,1841,Drug Violation,C6,177,2018,7,Tuesday,15,Part Two,MASSACHUSETTS AVE,N
+653,1843,Drug Violation,C6,177,2018,7,Tuesday,15,Part Two,MASSACHUSETTS AVE,N
+654,3112,Landlord/Tenant Disputes,B3,428,2018,7,Tuesday,17,Part Three,BLUE HILL AVE,N
+655,3410,Towed,D4,149,2018,7,Tuesday,17,Part Three,COLUMBUS AVE,N
+656,3831,Motor Vehicle Accident Response,, ,2018,7,Tuesday,16,Part Three,LANCASTER ST,N
+657,3820,Motor Vehicle Accident Response,, ,2018,7,Tuesday,16,Part Three,,N
+658,3115,Investigate Person,B2,257,2018,7,Tuesday,16,Part Three,COLUMBIA RD,N
+659,613,Larceny,C11,337,2018,7,Tuesday,16,Part One,COLUMBIA RD,N
+660,3115,Investigate Person,B3,406,2018,7,Tuesday,17,Part Three,RIVER ST,N
+661,2647,Other,D4,143,2018,7,Tuesday,17,Part Two,BOYLSTON ST,N
+662,802,Simple Assault,B3,458,2018,7,Tuesday,16,Part Two,WOLCOTT ST,N
+663,3006,Medical Assistance,B3,428,2018,7,Tuesday,16,Part Three,CLARKWOOD ST,N
+664,3301,Verbal Disputes,D4,903,2018,7,Tuesday,16,Part Three,HAMMOND ST,N
+665,619,Larceny,B2,327,2018,7,Tuesday,12,Part One,QUINCY ST,N
+666,3006,Medical Assistance,B2,288,2018,7,Tuesday,16,Part Three,MALCOLM X BLVD,N
+667,3820,Motor Vehicle Accident Response,A1,106,2018,6,Tuesday,11,Part Three,WINTHROP SQ,N
+668,3831,Motor Vehicle Accident Response,B2,182,2018,7,Sunday,19,Part Three,BATCHELDER ST,N
+669,3801,Motor Vehicle Accident Response,C6,196,2018,7,Tuesday,16,Part Three,D ST,N
+670,802,Simple Assault,D4,632,2018,7,Tuesday,16,Part Two,BAY STATE RD,N
+671,1402,Vandalism,D4,632,2018,7,Tuesday,16,Part Two,BAY STATE RD,N
+672,3301,Verbal Disputes,B2,184,2018,6,Tuesday,17,Part Three,GROOM ST,N
+673,3115,Investigate Person,, ,2018,7,Tuesday,16,Part Three,,N
+674,2629,Harassment,E5,551,2018,7,Tuesday,12,Part Two,GLENDOWER RD,N
+675,3115,Investigate Person,D14,778,2018,7,Tuesday,16,Part Three,WASHINGTON ST,N
+676,3831,Motor Vehicle Accident Response,C11,354,2018,7,Tuesday,14,Part Three,ADAMS ST,N
+677,3201,Property Lost,C11,351,2018,4,Saturday,24,Part Three,LINCOLN ST,N
+678,614,Larceny From Motor Vehicle,A1,117,2018,7,Tuesday,12,Part One,WASHINGTON ST,N
+679,619,Larceny,E13,643,2018,7,Tuesday,8,Part One,CENTRE ST,N
+680,3301,Verbal Disputes,B2,294,2018,7,Tuesday,16,Part Three,REGENT ST,N
+681,2647,Other,, ,2018,7,Tuesday,16,Part Two,IRMA,N
+682,3006,Medical Assistance,D4,270,2018,7,Tuesday,15,Part Three,NORTHAMPTON ST,N
+683,3201,Property Lost,A1,114,2018,7,Tuesday,12,Part Three,ATLANTIC AVE,N
+684,3410,Towed,D14,765,2018,7,Tuesday,12,Part Three,BEECHCROFT ST,N
+685,1106,Confidence Games,B2,330,2018,6,Tuesday,24,Part Two,BLUE HILL AVE,N
+686,3115,Investigate Person,E13,567,2018,7,Tuesday,15,Part Three,FOREST HILLS ST,N
+687,619,Larceny,B2,261,2018,7,Tuesday,16,Part One,DUDLEY ST,N
+688,3831,Motor Vehicle Accident Response,A1,100,2018,7,Tuesday,16,Part Three,STATE ST,N
+689,619,Larceny,, ,2018,7,Monday,11,Part One,WASHINGTON ST,N
+690,2619,Prisoner Related Incidents,C11,257,2018,7,Tuesday,14,Part Two,STOUGHTON ST,N
+691,3301,Verbal Disputes,, ,2018,7,Tuesday,15,Part Three,HAZLETON ST,N
+692,3810,Motor Vehicle Accident Response,, ,2018,7,Monday,24,Part Three,,N
+693,3114,Investigate Property,E5,691,2018,7,Tuesday,16,Part Three,CENTRE ST,N
+694,3831,Motor Vehicle Accident Response,E5,680,2018,7,Tuesday,15,Part Three,POPLAR ST,N
+695,617,Larceny,E13,304,2018,7,Monday,8,Part One,WASHINGTON ST,N
+696,1841,Drug Violation,D4,168,2018,7,Tuesday,15,Part Two,WASHINGTON ST,N
+697,1842,Drug Violation,D4,168,2018,7,Tuesday,15,Part Two,WASHINGTON ST,N
+698,1810,Drug Violation,D4,168,2018,7,Tuesday,15,Part Two,WASHINGTON ST,N
+699,2629,Harassment,B2,330,2018,7,Tuesday,15,Part Two,SUPPLE RD,N
+700,1845,Drug Violation,E18,494,2018,7,Tuesday,15,Part Two,CENTRAL AVE,N
+701,1810,Drug Violation,E18,494,2018,7,Tuesday,15,Part Two,CENTRAL AVE,N
+702,1848,Drug Violation,E18,494,2018,7,Tuesday,15,Part Two,CENTRAL AVE,N
+703,1109,Fraud,C6,206,2018,7,Tuesday,8,Part Two,NORTHERN AVE,N
+704,3114,Investigate Property,E18,520,2018,7,Tuesday,15,Part Three,HYDE PARK AVE,N
+705,3114,Investigate Property,A1,120,2018,7,Tuesday,15,Part Three,PARK PLZ,N
+706,3110,Police Service Incidents,E13,639,2018,7,Tuesday,12,Part Three,ROBINWOOD AVE,N
+707,1107,Fraud,B3,432,2018,7,Tuesday,15,Part Two,NORFOLK ST,N
+708,619,Larceny,E18,483,2018,6,Wednesday,24,Part One,RIVER ST,N
+709,724,Auto Theft,D4,285,2018,7,Tuesday,15,Part One,WESTMINSTER ST,N
+710,613,Larceny,D4,143,2018,7,Tuesday,13,Part One,BOYLSTON ST,N
+711,613,Larceny,D4,143,2018,7,Tuesday,13,Part One,BOYLSTON ST,N
+712,3402,Service,C6,936,2018,6,Tuesday,8,Part Three,D ST,N
+713,301,Robbery,B2,279,2018,7,Monday,21,Part One,DUDLEY ST,N
+714,706,Auto Theft,B2,279,2018,7,Monday,21,Part One,DUDLEY ST,N
+715,3115,Investigate Person,C6,214,2018,7,Tuesday,14,Part Three,W BROADWAY,N
+716,802,Simple Assault,A1,94,2018,7,Tuesday,14,Part Two,CLINTON ST,N
+717,1501,Firearm Violations,C11,257,2018,7,Tuesday,14,Part Two,STOUGHTON ST,N
+718,614,Larceny From Motor Vehicle,D4,620,2018,6,Friday,12,Part One,BURBANK ST,N
+719,1842,Drug Violation,B2,179,2018,7,Tuesday,14,Part Two,GERARD ST,N
+720,1810,Drug Violation,B2,179,2018,7,Tuesday,14,Part Two,GERARD ST,N
+721,3006,Medical Assistance,B2,297,2018,7,Tuesday,13,Part Three,ROCKLAND ST,N
+722,802,Simple Assault,, ,2018,7,Tuesday,12,Part Two,,N
+723,3803,Motor Vehicle Accident Response,C11,335,2018,7,Tuesday,13,Part Three,CLARKSON ST,N
+724,3802,Motor Vehicle Accident Response,D14,783,2018,7,Tuesday,7,Part Three,CAMBRIDGE ST,N
+725,3305,Assembly or Gathering Violations,A1,71,2018,7,Tuesday,11,Part Three,BEACON ST,N
+726,3006,Medical Assistance,C11,379,2018,7,Tuesday,13,Part Three,CHELMSFORD ST,N
+727,613,Larceny,D4,143,2018,7,Saturday,24,Part One,BOYLSTON ST,N
+728,3108,Fire Related Reports,C11,354,2018,7,Tuesday,13,Part Three,SACO ST,N
+729,1874,Drug Violation,B2,282,2018,7,Tuesday,13,Part Two,WASHINGTON ST,N
+730,619,Larceny,D14,750,2018,7,Tuesday,12,Part One,FOSTER ST,N
+731,1402,Vandalism,, ,2018,7,Monday,18,Part Two,,N
+732,1402,Vandalism,E18,486,2018,7,Tuesday,13,Part Two,ROSEBERY RD,N
+733,2914,Violations,C11,402,2018,7,Tuesday,13,Part Two,BAILEY ST,N
+734,2907,Violations,B2,329,2018,7,Tuesday,12,Part Two,BLUE HILL AVE,N
+735,1848,Drug Violation,B2,329,2018,7,Tuesday,12,Part Two,BLUE HILL AVE,N
+736,2906,Violations,B2,329,2018,7,Tuesday,12,Part Two,BLUE HILL AVE,N
+737,1102,Fraud,B3,422,2018,7,Tuesday,13,Part Two,RIVER ST,N
+738,614,Larceny From Motor Vehicle,B2,321,2018,7,Monday,14,Part One,BRUNSWICK ST,N
+739,2647,Other,A1,85,2018,5,Tuesday,13,Part Two,WASHINGTON ST,N
+740,802,Simple Assault,B3,418,2018,7,Tuesday,12,Part Two,MORTON ST,N
+741,1402,Vandalism,B3,418,2018,7,Tuesday,12,Part Two,MORTON ST,N
+742,724,Auto Theft,D4,137,2018,7,Tuesday,11,Part One,NEWBURY ST,N
+743,3115,Investigate Person,B2,263,2018,7,Thursday,21,Part Three,HUCKINS ST,N
+744,3410,Towed,C11,332,2018,7,Tuesday,12,Part Three,BELLEVUE ST,N
+745,3114,Investigate Property,C6,193,2018,7,Tuesday,12,Part Three,DORCHESTER ST,N
+746,724,Auto Theft,, ,2018,7,Tuesday,12,Part One,,N
+747,3831,Motor Vehicle Accident Response,, ,2018,7,Tuesday,12,Part Three,,N
+748,3805,Motor Vehicle Accident Response,C6,196,2018,7,Tuesday,13,Part Three,DORCHESTER AVE,N
+749,614,Larceny From Motor Vehicle,C6,186,2018,7,Tuesday,8,Part One,ALLSTATE RD,N
+750,413,Aggravated Assault,B2,294,2018,7,Tuesday,13,Part One,AKRON ST,N
+751,3122,Aircraft,A7,36,2018,7,Tuesday,12,Part Three,HARBORSIDE DR,N
+752,619,Larceny,A1,114,2018,7,Wednesday,14,Part One,ATLANTIC AVE,N
+753,735,Auto Theft Recovery,C6,174,2018,7,Tuesday,12,Other,FRONTAGE RD,N
+754,613,Larceny,, ,2018,7,Tuesday,12,Part One,,N
+755,802,Simple Assault,, ,2018,7,Tuesday,12,Part Two,,N
+756,3501,Missing Person Reported,B3,429,2018,7,Tuesday,13,Part Three,WINSTON RD,N
+757,3201,Property Lost,A1,103,2018,7,Sunday,12,Part Three,TREMONT ST,N
+758,3201,Property Lost,A1,94,2018,7,Tuesday,12,Part Three,CLINTON ST,N
+759,2906,Violations,E13,578,2018,7,Tuesday,11,Part Two,CENTRE ST,N
+760,3811,Motor Vehicle Accident Response,A1,107,2018,7,Monday,16,Part Three,FEDERAL ST,N
+761,1810,Drug Violation,C6,179,2018,7,Tuesday,12,Part Two,MASSACHUSETTS AVE,N
+762,1842,Drug Violation,C6,179,2018,7,Tuesday,12,Part Two,MASSACHUSETTS AVE,N
+763,3201,Property Lost,C11,344,2018,7,Saturday,9,Part Three,CORONA ST,N
+764,619,Larceny,C11, ,2018,6,Friday,18,Part One,WILLIAM T MORRISSEY BLVD,N
+765,3115,Investigate Person,A1,97,2018,7,Tuesday,12,Part Three,SCHOOL ST,N
+766,619,Larceny,A1,100,2018,7,Monday,23,Part One,BROAD ST,N
+767,802,Simple Assault,B2,319,2018,7,Tuesday,11,Part Two,SCHUYLER ST,N
+768,613,Larceny,C6,186,2018,7,Tuesday,12,Part One,ALLSTATE RD,N
+769,3119,Firearm Discovery,D14,770,2018,7,Tuesday,11,Part Three,PARSONS ST,N
+770,3501,Missing Person Reported,B3,454,2018,7,Tuesday,9,Part Three,SHAFTER ST,N
+771,3115,Investigate Person,E5,727,2018,7,Tuesday,11,Part Three,VFW PKWY,N
+772,2907,Violations,B2,182,2018,7,Tuesday,11,Part Two,ALBION ST,N
+773,2906,Violations,B2,182,2018,7,Tuesday,11,Part Two,ALBION ST,N
+774,3006,Medical Assistance,C6,192,2018,7,Tuesday,12,Part Three,MOHAWK ST,N
+775,3115,Investigate Person,C11,389,2018,7,Monday,9,Part Three,GRANVILLE ST,N
+776,3115,Investigate Person,, ,2018,7,Tuesday,12,Part Three,NIGHTINGALE,N
+777,706,Auto Theft,E5,664,2018,7,Tuesday,15,Part One,ARCHDALE RD,N
+778,2629,Harassment,E18,519,2018,7,Saturday,2,Part Two,CENTRAL AVE,N
+779,2647,Other,B3,463,2018,7,Tuesday,11,Part Two,HARVARD ST,N
+780,724,Auto Theft,, ,2018,7,Saturday,12,Part One,,N
+781,3410,Towed,B2,311,2018,7,Tuesday,8,Part Three,MAYWOOD ST,N
+782,3115,Investigate Person,C11,338,2018,7,Tuesday,12,Part Three,NAVILLUS TER,N
+783,3807,Motor Vehicle Accident Response,A15,47,2018,7,Tuesday,12,Part Three,MAIN ST,N
+784,617,Larceny,E5,822,2018,7,Monday,12,Part One,WESTMOOR RD,N
+785,802,Simple Assault,D4,597,2018,7,Tuesday,12,Part Two,TREMONT ST,N
+786,3831,Motor Vehicle Accident Response,A1,77,2018,7,Tuesday,9,Part Three,NEW CHARDON ST,N
+787,3301,Verbal Disputes,B2,325,2018,7,Tuesday,12,Part Three,QUINCY ST,N
+788,614,Larceny From Motor Vehicle,B3,468,2018,7,Tuesday,12,Part One,WELLINGTON HILL ST,N
+789,2610,Other,E13,916,2018,7,Tuesday,12,Part Two,BICKFORD ST,N
+790,2660,Other,E13,916,2018,7,Tuesday,12,Part Two,BICKFORD ST,N
+791,3125,Warrant Arrests,E13,916,2018,7,Tuesday,12,Part Three,BICKFORD ST,N
+792,1300,Recovered Stolen Property,E13,916,2018,7,Tuesday,12,Part Two,BICKFORD ST,N
+793,3501,Missing Person Reported,C11,358,2018,7,Sunday,24,Part Three,LARCHMONT ST,N
+794,3502,Missing Person Located,C11,358,2018,7,Sunday,24,Part Three,LARCHMONT ST,N
+795,423,Aggravated Assault,C6,256,2018,7,Tuesday,9,Part One,WILLIAM T MORRISSEY BLVD,N
+796,613,Larceny,C6,256,2018,7,Tuesday,9,Part One,WILLIAM T MORRISSEY BLVD,N
+797,2647,Other,A1,113,2018,7,Friday,24,Part Two,SUMMER ST,N
+798,3108,Fire Related Reports,B2,276,2018,7,Tuesday,9,Part Three,DEWITT DR,N
+799,3207,Property Found,B3,420,2018,7,Tuesday,12,Part Three,LORNA RD,N
+800,351,Robbery,D14,804,2015,11,Sunday,14,Part One,EVERETT ST,N
